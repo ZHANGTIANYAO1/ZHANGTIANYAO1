@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhang Tianyao</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16D239&vCenter=true&width=435&lines=A+Computer+Science+Student+from+NUS&width=560" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16D239&vCenter=true&width=435&lines=A+Computer+Science+Student+from+NUS&width=510" alt="Typing SVG" /></a>
 </p>
 
 <!--
