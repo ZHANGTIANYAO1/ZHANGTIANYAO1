@@ -41,7 +41,7 @@ Github Stats
 
 you are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thansk you!
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZHANGTIANYAO1)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=ZHANGTIANYAO1)
 
 
 <h3 align="left">Languages and Tools:</h3>
