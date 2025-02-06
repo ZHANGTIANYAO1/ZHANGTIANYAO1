@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zhang Tianyao</h1>
 <h3 align="center">A Computer Science Student from NUS</h3>
+<!--
+Github WidgetBox
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github WidgetBox
+ </p>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhangtianyao1&label=Profile%20views&color=0e75b6&style=flat" alt="zhangtianyao1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhangtianyao1" alt="zhangtianyao1" /></a> </p>
+<p align="center">
+ <img src="https://github-widgetbox.vercel.app/api/profile?username=ZHANGTIANYAO1&data=followers,repositories,stars,commits&theme=darkmode" align="center" alt="Stats" />
+</p>
 
 - 🔭 I’m currently working on [网易云音乐TeamSpeak插件](https://github.com/ZHANGTIANYAO1/TS3AudioBot-NetEaseCloudmusic-plugin)
 
