@@ -4,20 +4,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16D239&vCenter=true&width=435&lines=A+Computer+Science+Student+from+NUS&width=510" alt="Typing SVG" /></a>
 </p>
 
-<!--
-Github WidgetBox
--->
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Github WidgetBox
- </p>
-</p>
-
-<p align="center">
- <img src="https://github-widgetbox.vercel.app/api/profile?username=ZHANGTIANYAO1&data=followers,repositories,stars,commits&theme=darkmode" align="center" alt="Stats" />
-</p>
 
 <!--
 Github Stats
