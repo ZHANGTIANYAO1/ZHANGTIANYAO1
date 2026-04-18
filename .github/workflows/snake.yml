@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Generate snake
@@ -25,7 +25,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#6ab0f3,#1f80ce,#0a4388,#042452
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
